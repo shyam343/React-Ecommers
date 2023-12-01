@@ -38,6 +38,20 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## This is the Front page of the Ecommerce Website.
+![1st pg](https://github.com/shyam343/React-Ecommers/assets/84222697/aff217f0-9587-4fc4-a161-02e482c2bc9a)
+
+## This is the Second or Shopping page of the Ecommerce Website.
+![2nd page](https://github.com/shyam343/React-Ecommers/assets/84222697/f93c972a-d308-411e-a01d-b62b3d537dac)
+
+## This is the descibtion page of the Ecommerce Website.
+![3rd pg](https://github.com/shyam343/React-Ecommers/assets/84222697/61e0ba99-cecf-417d-9ba7-12642faa7c83)
+
+## This is the Contact page of the web site.
+![contact pg](https://github.com/shyam343/React-Ecommers/assets/84222697/1d8dbd56-50be-408b-b80c-b05c9cd8abfa)
+
+## This is the last page of the website where written the journal .
+![jornal pg](https://github.com/shyam343/React-Ecommers/assets/84222697/01291838-79ac-4734-a295-21acc4832079)
 
 ## Learn More
 
